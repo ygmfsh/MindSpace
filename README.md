@@ -1,4 +1,4 @@
-** 🧠 Mindspace**
+**🧠 Mindspace**
 
 O Mindspace é um projeto desenvolvido com o objetivo de facilitar o acesso ao cuidado com a saúde mental, conectando usuários a profissionais da área da psicologia por meio de uma plataforma simples, intuitiva e acessível.
 
@@ -66,8 +66,8 @@ mindspace/
     └── ...
 ```
 
-** 👩‍💻 Minha contribuição
-**
+**👩‍💻 Minha contribuição**
+
 Minha principal contribuição para o projeto foi o desenvolvimento da área de profissionais, localizada na pasta `profissionais/`.
 
 **👨‍⚕️ Página de profissionais**
@@ -104,7 +104,7 @@ A página apresenta informações detalhadas sobre o profissional, incluindo:
 
 A página também possui abas para organizar as informações do profissional, tornando a navegação mais simples.
 
-** 📅 Minha Agenda**
+**📅 Minha Agenda**
 
 Outra parte desenvolvida foi a página **Minha Agenda**, presente em `minhaagenda.html`, juntamente com seu estilo em `agenda.css`.
 
@@ -119,11 +119,11 @@ Essa área foi criada para representar o ambiente do profissional, permitindo vi
 - Progresso dos atendimentos;
 - Solicitação de emissão de certificado.
 
-**🎨 Interface
-**
+**🎨 Interface**
+
 A identidade visual da área de profissionais utiliza principalmente tons claros de azul, cards com bordas arredondadas e uma interface limpa, buscando transmitir uma sensação de tranquilidade e confiança, características importantes para uma plataforma relacionada à saúde mental.
 
-** 🚀 Projeto**
+**🚀 Projeto**
 
 O Mindspace foi desenvolvido como um projeto acadêmico, com o objetivo de aplicar conhecimentos de desenvolvimento web, organização de páginas, estilização com CSS e integração entre diferentes partes de uma aplicação.
 
